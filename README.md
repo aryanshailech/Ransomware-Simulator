@@ -43,6 +43,12 @@ Click on the ""Choose Folder" button to select a folder for encryption or decryp
 - Deleting the .payment_token file will render decryption impossible.
 
 ## Screenshots
+![before encryption](https://github.com/aryanshailech/malwareProject/blob/main/readme_img/before%20encryption.png)
+![select folder](https://github.com/aryanshailech/malwareProject/blob/main/readme_img/select%20folder.png)
+![encryption message](https://github.com/aryanshailech/malwareProject/blob/main/readme_img/all%20files%20encrypted%20message.png)
+![encrypted files](https://github.com/aryanshailech/malwareProject/blob/main/readme_img/encrypted%20files.png)
+![enter key](https://github.com/aryanshailech/malwareProject/blob/main/readme_img/enter%20key.png)
+![decryption message](https://github.com/aryanshailech/malwareProject/blob/main/readme_img/all%20files%20decrypted%20message.png).
 
 
 
