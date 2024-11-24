@@ -1,4 +1,4 @@
-# Folder Encryption and Decryption Tool
+# Ransomware Simulator
 
 This tool provides a graphical interface to encrypt and decrypt files within a folder. It uses the `Fernet` encryption scheme from the `cryptography` library to secure the contents of files. Additionally, it generates a unique token for decryption, enhancing the security of encrypted data.
 
