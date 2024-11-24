@@ -1,0 +1,4 @@
+cryptography==43.0.0
+fernet==1.0.1
+pillow==11.0.0
+pyaes==1.6.1
