@@ -16,7 +16,7 @@ This tool provides a graphical interface to encrypt and decrypt files within a f
 ### How to use
 ## 1. Run the Python script to open the graphical interface:
 ```bash
-python gui.py
+python3 gui.py
 ```
 ## 2. Select a Folder
 Click on the ""Choose Folder" button to select a folder for encryption or decryption.
