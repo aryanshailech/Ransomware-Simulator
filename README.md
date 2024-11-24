@@ -13,14 +13,10 @@ This tool provides a graphical interface to encrypt and decrypt files within a f
 - **Tkinter**: For the graphical user interface.
 - **Cryptography**: For encryption and decryption.
 
-Install dependencies using:
-```bash
-pip install cryptograph
-```
 ### How to use
 ## 1. Run the Python script to open the graphical interface:
 ```bash
-python gup.py
+python gui.py
 ```
 ## 2. Select a Folder
 Click on the ""Choose Folder" button to select a folder for encryption or decryption.
